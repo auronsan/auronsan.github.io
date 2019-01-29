@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -r ./source/build/* .
+cp -r ./source_dist/build/* .
